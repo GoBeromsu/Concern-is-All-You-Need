@@ -1,4 +1,4 @@
-# Concern is All You Need: Semantic Untangling with Small Language Models
+# Untangling of multi-concern commits using SLM
 
 ## Tangled Dataset Naming Convention
 
